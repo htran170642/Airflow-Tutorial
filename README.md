@@ -33,7 +33,7 @@ export AIRFLOW_HOME=~/airflow
 
 **Create user**
 ```bash 
-airflow users create --username admin --password admin --firstname Kos --lastname Nhan --role Admin --email datacollectoriu@gmail.com
+airflow users create --username admin --password admin --firstname Nathan --lastname Ngo --role Admin --email datacollectoriu@gmail.com
 ```
 
 **Start Airflow**
